@@ -166,7 +166,7 @@
   ]
  },
  "my_brief": {
-  "sha": "2be8d0f1d0c509cc8db8d0edf650e653773911d3",
+  "sha": "6ae2ac9c83bd4a04fc37919e42a31ec81fa21d60",
   "entry": "module_08/app.md",
   "files": [
    "module_08/app.md",
@@ -179,8 +179,25 @@
   ],
   "by": "21joberoi",
   "engine": "b35d8e7",
-  "at": "2026-11-07T20:26:25.724Z",
+  "at": "2026-11-07T20:44:39.926Z",
   "history": [
+   {
+    "sha": "6ae2ac9c83bd4a04fc37919e42a31ec81fa21d60",
+    "at": "2026-11-07T20:44:39.926Z",
+    "entry": "module_08/app.md",
+    "engine": "b35d8e7",
+    "parts": [
+     "import",
+     "persona",
+     "pitch",
+     "runner",
+     "dataset",
+     "datagrid",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "Added Lina’s persona and Study Buddy pitch directly to the app."
+   },
    {
     "sha": "2be8d0f1d0c509cc8db8d0edf650e653773911d3",
     "at": "2026-11-07T20:26:25.724Z",
