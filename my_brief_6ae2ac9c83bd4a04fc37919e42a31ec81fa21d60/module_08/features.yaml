@@ -1,0 +1,60 @@
+- tech_note: >-
+    comment: Structured form ensures consistent data capture.; advice: Validate
+    times against buddy schedules to prevent conflicts.
+  i_want: >-
+    Submit a help request with her statistics exercise, course, and available
+    times.
+  value_why: Eliminates downtime, immediate help, directly saves study time.
+  headline: Help Request Submission
+  as_a: >-
+    Second-year psychology student balancing Statistics 101 with other required
+    courses.
+  so_that: >-
+    Lina asks for help within five minutes of getting stuck instead of spending
+    hours repeating the same attempt.
+  business_value: 85
+- tech_note: >-
+    comment: Existing model reduces training, may miss niche topics.; risk:
+    Misclassification pairs unsuitable buddies, harming trust.; suggestion:
+    Offer manual tag selection fallback when AI uncertain.
+  i_want: >-
+    🤖 AI identifies the question's topic and ranks buddies by course experience
+    and overlapping availability.
+  value_why: Fast matches, but misclassification risk mitigated by fallback.
+  headline: AI Buddy Matching
+  as_a: >-
+    Second-year psychology student balancing Statistics 101 with other required
+    courses.
+  so_that: >-
+    Lina reviews relevant peers who are free when she needs help instead of
+    searching class group chats.
+  business_value: 65
+- tech_note: >-
+    comment: Accept/decline API provides clear status updates.; advice: Show
+    real-time availability to reduce waiting time.
+  i_want: >-
+    👤 Lina chooses whom to contact, and the buddy accepts or declines the
+    request.
+  value_why: User‑driven scheduling confirms availability, reduces waiting, saves hours.
+  headline: Select Buddy Interaction
+  as_a: >-
+    Second-year psychology student balancing Statistics 101 with other required
+    courses.
+  so_that: >-
+    Lina arranges a session with a willing buddy instead of messaging people who
+    cannot help.
+  business_value: 70
+- tech_note: >-
+    comment: Small reviewed question bank ensures quality, limited coverage.;
+    risk: Limited pool may repeat questions, reducing engagement.; suggestion:
+    Supplement with dynamically generated items if pool depletes.
+  i_want: A short practice quiz with feedback after the session.
+  value_why: Reinforces concepts, finds gaps, prevents future study delays.
+  headline: Practice Quiz Feedback
+  as_a: >-
+    Second-year psychology student balancing Statistics 101 with other required
+    courses.
+  so_that: >-
+    Lina checks her understanding after the session and asks a focused follow-up
+    if she still needs help.
+  business_value: 55
