@@ -166,7 +166,7 @@
   ]
  },
  "my_brief": {
-  "sha": "6ae2ac9c83bd4a04fc37919e42a31ec81fa21d60",
+  "sha": "dace3592e7b07464582bde92a8f2d7ae4d81639e",
   "entry": "module_08/app.md",
   "files": [
    "module_08/app.md",
@@ -178,9 +178,26 @@
    "module_01/cv.md"
   ],
   "by": "21joberoi",
-  "engine": "b35d8e7",
-  "at": "2026-11-07T20:44:39.926Z",
+  "engine": "9958115",
+  "at": "2026-11-09T23:02:14.484Z",
   "history": [
+   {
+    "sha": "dace3592e7b07464582bde92a8f2d7ae4d81639e",
+    "at": "2026-11-09T23:02:14.484Z",
+    "entry": "module_08/app.md",
+    "engine": "9958115",
+    "parts": [
+     "import",
+     "persona",
+     "pitch",
+     "runner",
+     "dataset",
+     "datagrid",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "Added all four Study Buddy features to the app’s backlog."
+   },
    {
     "sha": "6ae2ac9c83bd4a04fc37919e42a31ec81fa21d60",
     "at": "2026-11-07T20:44:39.926Z",
