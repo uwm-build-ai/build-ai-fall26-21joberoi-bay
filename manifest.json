@@ -284,5 +284,37 @@
     "note": "Study Buddy product brief with persona, pitch, impact map, valued features, and technical notes."
    }
   ]
+ },
+ "my_poc": {
+  "sha": "18595fd03566b10b122d3f9ec411fe36cbaec1ac",
+  "entry": "module_09/app.md",
+  "files": [
+   "module_09/app.md",
+   "module_09/first_feature.md",
+   "module_08/app.md",
+   "module_08/welcome.md",
+   "module_08/zim.yaml",
+   "module_08/pitch.yaml",
+   "module_08/map.md",
+   "module_08/features.yaml",
+   "module_01/cv.md"
+  ],
+  "by": "21joberoi",
+  "engine": "0b3488a",
+  "at": "2026-11-21T23:29:23.926Z",
+  "history": [
+   {
+    "sha": "18595fd03566b10b122d3f9ec411fe36cbaec1ac",
+    "at": "2026-11-21T23:29:23.926Z",
+    "entry": "module_09/app.md",
+    "engine": "0b3488a",
+    "parts": [
+     "runner",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "Study Buddy Market demo with listings, the Take it button, and the Sprint Zero brief."
+   }
+  ]
  }
 }
